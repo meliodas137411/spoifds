@@ -2,8 +2,8 @@
 Arquivos da disciplina de IFDS
 
 
-Nome:Thiago Messias Ezequiel Diniz
+Nome ALUNO 1 :Thiago Messias Ezequiel Diniz
 
-Nome:Rafael Cardoso de Lucca 
+Nome ALUNO 2 :Rafael Cardoso de Lucca 
 
-Nome:Augusto Rodrigues Martins 
+Nome ALUNO 3:Augusto Rodrigues Martins 
