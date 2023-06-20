@@ -7,7 +7,6 @@
 	<title>Dragon Ball Page</title>
 
 	<style>
-
 		body {
 
 			background-image: url("dragon_ball_background.jpg");
@@ -46,9 +45,9 @@
 
 			height: auto;
 
-			border-radius: 50%;
+			border-radius: 53%;
 
-			margin-bottom: 20px;
+			margin-bottom: 25px;
 
 		}
 
