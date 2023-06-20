@@ -57,15 +57,15 @@
 
 <body>
 
-	<h1>Welcome to the Dragon Ball Page</h1>
+	<h3>Welcome to the Dragon Ball Page</h3>
 
 	<img src="dragon_ball_logo.png" alt="Dragon Ball Logo">
 
-	<p>Dragon Ball is an iconic anime and manga series created by Akira Toriyama.</p>
+	<p>Dragon Ball é uma icônica série de anime e mangá criada por Akira Toriyama.</p>
 
-	<p>Follow the adventures of Goku and his friends as they protect the Earth from powerful villains and search for the mystical Dragon Balls.</p>
+	<p>Siga as aventuras de Goku e seus amigos enquanto eles protegem a Terra de poderosos vilões e procuram as místicas Esferas do Dragão.</p>
 
-	<p>Get ready for epic battles, incredible transformations, and unforgettable moments!</p>
+	<p>Prepare-se para batalhas épicas, transformações incríveis e momentos inesquecíveis!</p>
 
 </body>
 
